@@ -555,4 +555,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [IgorRozani](https://github.com/igorrozani)
  - [adich23](https://github.com/adich23)
  - [eduardopatrick](https://github.com/eduardopatrick)
-
+ - [brenobaptista](https://github.com/brenobaptista)
